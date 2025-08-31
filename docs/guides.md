@@ -1,3 +1,4 @@
+<img width="800" height="1280" alt="Screenshot_20250831-023034" src="https://github.com/user-attachments/assets/1d4c7c60-e39f-4619-bfe9-ee0a690dd906" />
 # Developer Guides
 
 ## BusyBox
